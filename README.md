@@ -55,4 +55,4 @@ CameraX, RecyclerView, Paging3, WorkManager, Android View и Jetpack Compose, а
 
 Именно поэтому я прошел курс "Профессия Android-разработчик Skillbox". 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlekseyFokin&theme=graywhite&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlekseyFokin&theme=graywhite&exclude=HTML,JavaScript)
